@@ -24,6 +24,6 @@ Calculate Shannon entropy
 
 Hash a file  
 
-### read_mbr.py
+### event_carver
 
-Read the MBR of a volume  
+Carve useful data from corrupt event logs
