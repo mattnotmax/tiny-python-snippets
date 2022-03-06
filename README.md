@@ -15,3 +15,15 @@ Returns the ASN of an IP address
 ### decode_blob.py
 
 Decode a blob of evil Base64 and XOR with key of 14, remove null bytes to make readable
+
+### entropy.py
+
+Calculate Shannon entropy  
+
+### hash.py
+
+Hash a file  
+
+### read_mbr.py
+
+Read the MBR of a volume  
